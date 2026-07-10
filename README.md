@@ -4,8 +4,8 @@ Aplicacao local para rodar um modelo de gestao de carteiras globais com base no 
 
 ## Links publicados
 
-- Dashboard publico sanitizado: <https://fabermach.github.io/AQRL-SMP_Allocation/>
-- Repositorio principal da ferramenta: <https://github.com/FaberMach/AQRL-SMP_Allocation>
+- Dashboard publico sanitizado: <https://fabermach.github.io/Global_Rebalance/>
+- Repositorio principal da ferramenta: <https://github.com/FaberMach/Global_Rebalance>
 - Ultima release publicada: <https://github.com/FaberMach/AQRL-SMP_Allocation/releases>
 
 ## O que a aplicacao faz
@@ -33,7 +33,7 @@ Depois abra:
 
 - Desktop: <http://localhost:8000>
 - Celular na mesma rede Wi-Fi: use o IP da maquina no formato `http://IP:8000`
-- Versao publica online: <https://fabermach.github.io/AQRL-SMP_Allocation/>
+- Versao publica online: <https://fabermach.github.io/Global_Rebalance/>
 
 No modo completo voce encontra as abas `Relatório`, `TradingView`, `Simulador`, `Setores` e `Risco` alem do fluxo atual de resumo, mercado, execucao, estudo e universo.
 
