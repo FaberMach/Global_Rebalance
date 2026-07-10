@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+_tmp_cookie_copy/
+upload_test/
+.agents/
+extracted_text/
+.pytest_cache/
+.cache/
+node_modules/
+dist/
+build/
+.worktrees/
+Autonomous-Quant-Research-Lab-publish/
+*.zip
